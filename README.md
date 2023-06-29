@@ -6,3 +6,6 @@ This is my several-years-old Bachelor's Computer Science project on an E-Commerc
 It has not been updated or maintained since 2018, as it was built using older technologies and libraries. Nonetheless, I had a great time learning and experimenting with the DBMS and JavaScript modules, despite being restricted to outdated academic tech stack requirements.
 
 Uploading for archival and documentation purposes
+
+Landing webpage
+![Screenshot from 2018-03-05 17-51-29](https://github.com/aliasgar-saria/Ecommerce-Perfurmery-Retail-Portal/assets/54890369/31623a32-1b8a-4c45-bb41-b6d676a523a2)
